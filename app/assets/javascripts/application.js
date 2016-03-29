@@ -15,6 +15,9 @@
 //= require turbolinks
 //= require underscore
 //= require backbone
+//= require backbone-validation
+//= require backbone.stickit
+//= require backbone.marionette
 //= require marionette_rails
 //= require_tree ../templates
 //= require_tree ./models
