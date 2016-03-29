@@ -43,3 +43,7 @@ group :development, :test do
   gem 'spring'
 end
 
+# Backbone
+gem "backbone-on-rails"
+gem 'marionette-rails'
+gem 'backbone-validation-rails'
